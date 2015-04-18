@@ -14,7 +14,7 @@ public class App
     /** This is a sample method**/
     public void sample()
     {
-		System.out.println("test");
+		System.out.println("test")
 	}
 
 }
