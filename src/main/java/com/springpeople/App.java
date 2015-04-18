@@ -1,13 +1,20 @@
 package com.springpeople;
 
 /**
- * Hello world!
+ * This is App class
  *
  */
 public class App
 {
-    public static void main( String[] args )
+   /** Main method **/
+   public static void main( String[] args )
     {
-        System.out.println( "Hello World!  -- with github" );
+        System.out.println( "H  el   lo   World! --     second" );
     }
+    /** This is a sample method**/
+    public void sample()
+    {
+		system.out.println("test");
+	}
+
 }
